@@ -4,19 +4,34 @@ using namespace std;
 
 
 void solve(){
-    int n ;
+    int n;
     cin>>n;
-    set<int>s;
-    int temp;
+    int gcd ;
+    int arr[n];
     for(int i = 0 ; i < n; i++){
-        cin>>temp;
-        s.insert(temp);
+        cin>>arr[i];
     }
-    if(s.size()<=2){
-        cout<<(n/2)+1;
+    gcd = arr[0];
+    for(int i = 1 ; i < n; i++){
+        gcd = __gcd(gcd,arr[i]);
+    }
+    if(gcd==0){
+        cout<<0;
         return;
     }
-    cout<<n;
+    if(__gcd(gcd,n-1)==1){
+        cout<<1;
+        return;
+    }
+    if(__gcd(gcd,n-2)==1){
+        cout<<2;
+        return;
+    }
+    if(__gcd(gcd,n-3)==1){
+        cout<<3;
+        return;
+    }
+    
 }
 
 int32_t main(){

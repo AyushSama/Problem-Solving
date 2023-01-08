@@ -4,19 +4,22 @@ using namespace std;
 
 
 void solve(){
-    int n ;
+    int n;
     cin>>n;
-    set<int>s;
-    int temp;
+    int arr[n];
     for(int i = 0 ; i < n; i++){
-        cin>>temp;
-        s.insert(temp);
+        cin>>arr[i];
     }
-    if(s.size()<=2){
-        cout<<(n/2)+1;
-        return;
+    cout<<n<<endl;
+    for(int i = 0 ; i < n; i++){
+        int c = 1;
+        while(c<=arr[i]){
+            c*=2;
+        }
+        cout<<i+1<<" "<<c-arr[i]<<endl;
     }
-    cout<<n;
+    
+    
 }
 
 int32_t main(){
@@ -30,7 +33,7 @@ int32_t main(){
     cin>>t;
     while(t--){
         solve();
-        cout<<endl;
+        // cout<<endl;
     }
     return 0;
 }

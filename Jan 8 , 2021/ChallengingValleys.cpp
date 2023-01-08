@@ -4,19 +4,24 @@ using namespace std;
 
 
 void solve(){
-    int n ;
+    int n;
     cin>>n;
-    set<int>s;
-    int temp;
-    for(int i = 0 ; i < n; i++){
-        cin>>temp;
-        s.insert(temp);
+    int arr[n];
+    bool f = false;
+    for(int i= 0 ; i < n; i++){
+        cin>>arr[i];
     }
-    if(s.size()<=2){
-        cout<<(n/2)+1;
-        return;
+    int d = min(arr[0],arr[n-1]);
+    for(int i= 0 ; i  < n ; i++){
+        arr[i] =  arr[i] - d;
     }
-    cout<<n;
+    int i = 0 ; 
+    while(i<n){
+        if(arr[i]>0){
+            i++;
+
+        }
+    }
 }
 
 int32_t main(){
