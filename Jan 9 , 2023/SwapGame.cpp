@@ -12,11 +12,11 @@ void solve(){
         cin>>arr[i];
         sum+=arr[i];
     }
-    if(sum%2){
+    sort(arr+1,arr+n);
+    if(arr[0]>arr[1])
         cout<<"Alice";
-        return;
-    }
-    cout<<"Bob";
+    else    
+        cout<<"Bob";
 
 }
 
