@@ -1,0 +1,1 @@
+(sum==m)?sum-1:sum
