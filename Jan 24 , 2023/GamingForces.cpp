@@ -6,7 +6,16 @@ using namespace std;
 
 
 void solve(){
-    
+    int n;
+    cin>>n;
+    int arr[n];
+    int one = 0;
+    for(int i = 0 ; i < n; i++){
+        cin>>arr[i];
+        if(arr[i]==1)
+            one++;
+    }
+    cout<<(one/2)+(n-(one%2==0?one:one-1));
 }
 
 int32_t main(){
