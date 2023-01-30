@@ -1,0 +1,100 @@
+1773E	Easy Assembly	Submit Add to favourites	1400	 x2488
+1772D	Absolute Sorting	Submit Add to favourites	1400	 x9099
+1771B	Hossam and Friends	Submit Add to favourites	1400	 x8632
+1769B2	Копирование файлов II	Submit Add to favourites	1400	 x725
+1764C	Doremy's City Construction	Submit Add to favourites	1400	 x6788
+1762C	Binary Strings are Fun	Submit Add to favourites	1400	 x6733
+1761C	Set Construction	Submit Add to favourites	1400	 x6839
+1759D	Make It Round	Submit Add to favourites	1400	 x8116
+1758C	Almost All Multiples	Submit Add to favourites	1400	 x9149
+1750C	Complementary XOR	Submit Add to favourites	1400	 x7498
+1749C	Number Game	Submit Add to favourites	1400	 x10354
+1748B	Diverse Substrings	Submit Add to favourites	1400	 x11105
+1740C	Bricks and Bags	Submit Add to favourites	1400	 x8316
+1735C	Phase Shift	Submit Add to favourites	1400	 x7842
+1733D1	Zero-One (Easy Version)	Submit Add to favourites	1400	 x10025
+1728C	Digital Logarithm	Submit Add to favourites	1400	 x11968
+1721C	Min-Max Array Transformation	Submit Add to favourites	1400	 x10736
+1719C	Fighting Tournament	Submit Add to favourites	1400	 x10784
+1714E	Add Modulo 10	Submit Add to favourites	1400	 x11602
+1706C	Qpwoeirut And The City	Submit Add to favourites	1400	 x12214
+1705C	Mark and His Unfinished Essay	Submit Add to favourites	1400	 x11215
+1701C	Schedule Management	Submit Add to favourites	1400	 x12643
+1697C	awoo's Favorite Problem	Submit Add to favourites	1400	 x11765
+1696C	Fishingprince Plays With Array	Submit Add to favourites	1400	 x9948
+1692G	2^Sort	Submit Add to favourites	1400	 x11751
+1691C	Sum of Substrings	Submit Add to favourites	1400	 x12876
+1684C	Column Swapping	Submit Add to favourites	1400	 x10509
+1682C	LIS or Reverse LIS?	Submit Add to favourites	1400	 x11946
+1679C	Rooks Defenders	Submit Add to favourites	1400	 x8428
+1676H1	Maximum Crossings (Easy Version)	Submit Add to favourites	1400	 x10493
+1670C	Where is the Pizza?	Submit Add to favourites	1400	 x7895
+1654C	Alice and the Cake	Submit Add to favourites	1400	 x11533
+1648A	Weird Sum	Submit Add to favourites	1400	 x9934
+1644C	Increase Subarray Sums	Submit Add to favourites	1400	 x11643
+1634B	Fortune Telling	Submit Add to favourites	1400	 x13809
+1628A	Meximum Array	Submit Add to favourites	1400	 x13352
+1627C	Not Assigning	Submit Add to favourites	1400	 x11912
+1624D	Palindromes Coloring	Submit Add to favourites	1400	 x13428
+1609C	Complex Market Analysis	Submit Add to favourites	1400	 x8432
+1606C	Banknotes	Submit Add to favourites	1400	 x11844
+1605C	Dominant Character	Submit Add to favourites	1400	 x13529
+1600J	Robot Factory	Submit Add to favourites	1400	 x3253
+1579D	Productive Meeting	Submit Add to favourites	1400	 x12736
+1573B	Swaps	Submit Add to favourites	1400	 x12318
+1559D1	Mocha and Diana (Easy Version)	Submit Add to favourites	1400	 x11538
+1551B2	Wonderful Coloring - 2	Submit Add to favourites	1400	 x13278
+1548A	Web of Lies	Submit Add to favourites	1400	 x14373
+1540A	Great Graphs	Submit Add to favourites	1400	 x12434
+1535C	Unstable String	Submit Add to favourites	1400	 x13978
+1526B	I Hate 1111	Submit Add to favourites	1400	 x22199
+1520E	Arranging The Sheep	Submit Add to favourites	1400	 x16427
+1519C	Berland Regional	Submit Add to favourites	1400	 x13915
+1517C	Fillomino 2	Submit Add to favourites	1400	 x11751
+1515C	Phoenix and Towers	Submit Add to favourites	1400	 x14281
+1513B	AND Sequences	Submit Add to favourites	1400	 x11797
+1506D	Epic Transformation	Submit Add to favourites	1400	 x17056
+1505C	Fibonacci Words	Submit Add to favourites	1400	 x5743
+1494B	Berland Crossword	Submit Add to favourites	1400	 x12742
+1490E	Accidental Victory	Submit Add to favourites	1400	 x15118
+1475C	Ball in Berland	Submit Add to favourites	1400	 x17236
+1468C	Berpizza	Submit Add to favourites	1400	 x6031
+1463B	Find The Array	Submit Add to favourites	1400	 x15880
+1462D	Add to Neighbour and Remove	Submit Add to favourites	1400	 x14322
+1461B	Find the Spruce	Submit Add to favourites	1400	 x11519
+1453B	Suffix Operations	Submit Add to favourites	1400	 x12038
+1452B	Toy Blocks	Submit Add to favourites	1400	 x13139
+1451C	String Equality	Submit Add to favourites	1400	 x13725
+1443C	The Delivery Dilemma	Submit Add to favourites	1400	 x13079
+1431B	Polycarp and the Language of Gods	Submit Add to favourites	1400	 x833
+1427B	Chess Cheater	Submit Add to favourites	1400	 x9911
+1425F	Flamingoes of Mystery	Submit Add to favourites	1400	 x4170
+1425A	Arena of Greed	Submit Add to favourites	1400	 x5451
+1421C	Palindromifier	Submit Add to favourites	1400	 x11477
+1415C	Bouncing Ball	Submit Add to favourites	1400	 x9728
+1408B	Arrays Sum	Submit Add to favourites	1400	 x9068
+1393B	Applejack and Storages	Submit Add to favourites	1400	 x15082
+1380C	Create The Teams	Submit Add to favourites	1400	 x17237
+1380B	Universal Solution	Submit Add to favourites	1400	 x13098
+1375C	Element Extermination	Submit Add to favourites	1400	 x18177
+1374D	Zero Remainder Array	Submit Add to favourites	1400	 x19341
+1370C	Number Game	Submit Add to favourites	1400	 x20493
+1369C	RationalLee	Submit Add to favourites	1400	 x17227
+1365C	Rotation Matching	Submit Add to favourites	1400	 x19607
+1363B	Subsequence Hate	Submit Add to favourites	1400	 x20066
+1362C	Johnny and Another Rating Drop	Submit Add to favourites	1400	 x15463
+1355D	Game With Array	Submit Add to favourites	1400	 x15753
+1354C1	Simple Polygon Embedding	Submit Add to favourites	1400	 x14369
+1351C	Skier	Submit Add to favourites	1400	 x7482
+1350B	Orac and Models	Submit Add to favourites	1400	 x17777
+1348B	Phoenix and Beauty	Submit Add to favourites	1400	 x21819
+1346B	Boot Camp	Submit Add to favourites	1400	 x984
+1332B	Composite Coloring	Submit Add to favourites	1400	 x15615
+1330B	Dreamoon Likes Permutations	Submit Add to favourites	1400	 x13048
+1324D	Pair of Topics	Submit Add to favourites	1400	 x21565
+1320A	Journey Planning	Submit Add to favourites	1400	 x14093
+1316B	String Modification	Submit Add to favourites	1400	 x10307
+1312C	Adding Powers	Submit Add to favourites	1400	 x14300
+1303B	National Project	Submit Add to favourites	1400	 x14247
+1292A	NEKO's Maze Game	Submit Add to favourites	1400	 x12334
+1285C	Fadi and LCM	Submit Add to favourites	1400	 x18487
